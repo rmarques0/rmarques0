@@ -16,7 +16,7 @@ Here you can find the summary of my main projects as well as their links for mor
 
 ## [Understanding World Happiness](https://www.kaggle.com/rmarques0/world-happiness-overview)
 
-**This kind of study can also be appied to understand which aspects affect customer and/or employee satisfaction in a Business.**
+**This kind of study can also be applied to understand which aspects affect customer and/or employee satisfaction in a Business.**
 
 
 * Built a deep analysis on which factos more contribute to the perception of happiness around the world.
