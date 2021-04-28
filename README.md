@@ -1,4 +1,4 @@
-# PORTIFOLIO
+
 Here you can find the summary of my main projects as well as their links for more detailed exploration.
 
 
