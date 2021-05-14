@@ -7,5 +7,5 @@ Here you can find the summary of my main projects as well as their links for mor
 ## [Sentiment](https://github.com/rmarques0/sentiment_analysis)
 ## [Data Science Salary Estimator](https://github.com/rmarques0/ds_salary_proj)
 ## [Business Analysis of a Mobility Company](https://github.com/rmarques0/Business-Analysis-99)  
-
+## [Power BI](https://github.com/rmarques0/dashboards)
 
