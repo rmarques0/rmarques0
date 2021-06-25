@@ -3,6 +3,7 @@ Here you can find the summary of my main projects as well as their links for mor
 
 
 ## [Understand World Happiness](https://www.kaggle.com/rmarques0/world-happiness-overview)
+## [Forecast of Electrical Consumption for Brazil's South-east region](https://github.com/rmarques0/ads4i_rmarques0)
 ## [Handwritten Digit Recognition CNN Practice](https://github.com/rmarques0/mnist_digit_recognition)
 ## [Time Series Analysis and Forecast of Total Factor Productivity (TFP)](https://github.com/rmarques0/tfp_analysis)
 ## [Sentiment Analysis for an Mobile App](https://github.com/rmarques0/sentiment_analysis)
