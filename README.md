@@ -3,7 +3,7 @@ Accomplished Data Scientist and Data Engineer with a passion for delivering valu
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rmarques0/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rmarques0/) 
 
 
 Here you can find the summary of my main projects as well as their links for more detailed exploration.
